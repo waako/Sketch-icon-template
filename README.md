@@ -6,52 +6,54 @@ Dimensions of images on the web: icons, profile, logo and banner images
 # Icons
 
 **16x16px** Favicon base
+
 **24x24px** Pinned site in IE9
+
 **29x29** iOS Settings icon (non-Retina)
-**32x32px** New tab page in IE, Windows 7+ tasbar and Safari’s ‘Read Later’ sidebar
-**50x50px** iOS Spotlight result icon (non-Retina)
-**57x57px** iOS home screen icon (iPod Touch, iPhone to 3G)
-**58x58px** iOS Settings icon (Retina)
-**72x72px** iPad home screen icon (iPad 1 & 2)
-**96x96px** GoogleTV
-**100x100px** iOS Spotlight result icon (Retina)
-**114x114px** iPhone Retina home screen icon (iPhone 4+)
-**128x128px** Chrome Web Store
-**195x195px** Opera Speed Dial
+* **32x32px** New tab page in IE, Windows 7+ tasbar and Safari’s ‘Read Later’ sidebar
+* **50x50px** iOS Spotlight result icon (non-Retina)
+* **57x57px** iOS home screen icon (iPod Touch, iPhone to 3G)
+* **58x58px** iOS Settings icon (Retina)
+* **72x72px** iPad home screen icon (iPad 1 & 2)
+* **96x96px** GoogleTV
+* **100x100px** iOS Spotlight result icon (Retina)
+* **114x114px** iPhone Retina home screen icon (iPhone 4+)
+* **128x128px** Chrome Web Store
+* **195x195px** Opera Speed Dial
 
 # Social Media
 
 ## Facebook
-**logo** 180x180px
-**cover** 851x315px
-**application** 111x74px
-**event** 714x264px
-**post normal** 403x403px
-**post highlight** 843x403px
+* **logo** 180x180px
+* **cover** 851x315px
+* **application** 111x74px
+* **event** 714x264px
+* **post normal** 403x403px
+* **post highlight** 843x403px
 
 ## Twitter
-**profile** 240x240px
-**header** 1252x626px
-**background** 2048x1707px
+* **profile** 240x240px
+* **header** 1252x626px
+* **background** 2048x1707px
 
 ## YouTube
-**profile** 200x200px
-**background** 1600x1000px
+* **profile** 200x200px
+* **background** 1600x1000px
 
 ## Google+
-**profile** 250x250px
-**background full** 2120x1192px
-**background HD** 1920x1080px
+* **profile** 250x250px
+* **background full** 2120x1192px
+* **background HD** 1920x1080px
 
 ## Flickr
-**icon** 48x48px
-**profile** 300x300px
-**cover** 2048x492px (cropped to 234px height) [full explanation](http://www.canbike.ca/information-technology/flickr-cover-photo-dimension-2048x492.html)
+* **icon** 48x48px
+* **profile** 300x300px
+* **cover** 2048x492px (cropped to 234px height) [full explanation](http://www.canbike.ca/information-technology/flickr-cover-photo-dimension-2048x492.html)
 
 ## Vimeo
-**profile** 300x300px
-**16/9 thumbnail** 960x540px
-**4/3 thumbnail** 720x540px
+* **profile** 300x300px
+* **16/9 thumbnail** 960x540px
+* **4/3 thumbnail** 720x540px
 
 ## Pinterest
 **profile** 48x48px

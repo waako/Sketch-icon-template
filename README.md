@@ -5,9 +5,9 @@ Dimensions of images on the web: icons, profile, logo and banner images
 
 # Icons
 
-**16x16px** Favicon base
-**24x24px** Pinned site in IE9
-**29x29** iOS Settings icon (non-Retina)
+**16x16px** Favicon base 
+**24x24px** Pinned site in IE9 
+**29x29** iOS Settings icon (non-Retina) 
 * **32x32px** New tab page in IE, Windows 7+ tasbar and Safari’s ‘Read Later’ sidebar
 * **50x50px** iOS Spotlight result icon (non-Retina)
 * **57x57px** iOS home screen icon (iPod Touch, iPhone to 3G)

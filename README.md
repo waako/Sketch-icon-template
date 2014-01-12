@@ -5,11 +5,9 @@ Dimensions of images on the web: icons, profile, logo and banner images
 
 # Icons
 
-**16x16px** Favicon base
-
-**24x24px** Pinned site in IE9
-
-**29x29** iOS Settings icon (non-Retina)
+* **16x16px** Favicon base
+* **24x24px** Pinned site in IE9
+* **29x29** iOS Settings icon (non-Retina)
 * **32x32px** New tab page in IE, Windows 7+ tasbar and Safari’s ‘Read Later’ sidebar
 * **50x50px** iOS Spotlight result icon (non-Retina)
 * **57x57px** iOS home screen icon (iPod Touch, iPhone to 3G)
@@ -65,10 +63,10 @@ Dimensions of images on the web: icons, profile, logo and banner images
 **profile** 64x64px
 
 ## LinkedIn
-**profile** 200x200px
-**logo** 120x60px
-**logo small** 50x50px
-**banner** 640x220px
+* **profile** 200x200px
+* **logo** 120x60px
+* **logo small** 50x50px
+* **banner** 640x220px
 
 ## Gravatar
 **profile** 420x420px
@@ -83,13 +81,13 @@ Dimensions of images on the web: icons, profile, logo and banner images
 **background** 1680x1050px
 
 ## Believe.in
-**profile** 400x400px
-**background** 1980x1080px
+* **profile** 400x400px
+* **background** 1980x1080px
 
 ## JustGiving
-**logo** 195x68px
-**appeal module** 435x162px
-**appeal page logo** 142x63px
-**background** 1600x1200px
-**why we care** 442x279px
+* **logo** 195x68px
+* **appeal module** 435x162px
+* **appeal page logo** 142x63px
+* **background** 1600x1200px
+* **why we care** 442x279px
 

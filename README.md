@@ -17,6 +17,7 @@ Dimensions of images on the web: icons, profile, logo and banner images
 * **100x100px** iOS Spotlight result icon (Retina)
 * **114x114px** iPhone Retina home screen icon (iPhone 4+)
 * **128x128px** Chrome Web Store
+* **144x144px** IE10 Metro (pin to Start screen)
 * **195x195px** Opera Speed Dial
 
 # Social Media

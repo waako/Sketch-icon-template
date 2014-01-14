@@ -1,4 +1,4 @@
-web-brand-images
+Web Brand image sizes
 ================
 
 Dimensions of images on the web: icons, profile, logo and banner images
@@ -55,13 +55,13 @@ Dimensions of images on the web: icons, profile, logo and banner images
 * **4/3 thumbnail** 720x540px
 
 ## Pinterest
-**profile** 48x48px
+* **profile** 48x48px
 
 ## Skype
-**profile** 214x214px
+* **profile** 214x214px
 
 ## Tumblr
-**profile** 64x64px
+* **profile** 64x64px
 
 ## LinkedIn
 * **profile** 200x200px
@@ -70,16 +70,16 @@ Dimensions of images on the web: icons, profile, logo and banner images
 * **banner** 640x220px
 
 ## Gravatar
-**profile** 420x420px
+* **profile** 420x420px
 
 ## Slideshare
-**profile** 96x96px
+* **profile** 96x96px
 
 ## Foursquare
-**profile** 128x128px
+* **profile** 128x128px
 
 ## About.me
-**background** 1680x1050px
+* **background** 1680x1050px
 
 ## Believe.in
 * **profile** 400x400px

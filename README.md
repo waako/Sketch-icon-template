@@ -3,6 +3,8 @@ Web Brand image sizes
 
 Dimensions of images on the web: icons, profile, logo and banner images
 
+Sketch template with all of the different Websites and images as pre-defined artboards
+
 # Icons
 
 * **16x16px** Favicon base

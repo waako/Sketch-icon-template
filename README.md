@@ -34,7 +34,7 @@ Sketch template with all of the different Websites and images as pre-defined art
 
 ##Twitter
 * **profile** 400x400px
-* **header** 1500x1500px
+* **header** 1500x500px
 
 * <del>**profile** 240x240px</del>
 * <del>**header** 1252x626px</del>

@@ -32,10 +32,15 @@ Sketch template with all of the different Websites and images as pre-defined art
 * **post normal** 403x403px
 * **post highlight** 843x403px
 
-## Twitter
-* **profile** 240x240px
-* **header** 1252x626px
-* **background** 2048x1707px
+##Twitter
+* **profile** 400x400px
+* **header** 1500x1500px
+
+* <del>**profile** 240x240px</del>
+* <del>**header** 1252x626px</del>
+* <del>**background** 2048x1707px</del>
+
+[source: Twitter support](https://support.twitter.com/articles/127871-customizing-your-profile)
 
 ## YouTube
 * **profile** 200x200px

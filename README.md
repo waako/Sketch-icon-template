@@ -42,6 +42,9 @@ Sketch template with all of the different Websites and images as pre-defined art
 
 [source: Twitter support](https://support.twitter.com/articles/127871-customizing-your-profile)
 
+##Lanyrd
+* **profile** min 300x300px
+
 ## YouTube
 * **profile** 200x200px
 * **background** 1600x1000px

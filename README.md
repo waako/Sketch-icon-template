@@ -67,6 +67,7 @@ Sketch template with all of the different Websites and images as pre-defined art
 
 ## LinkedIn
 * **profile** 200x200px
+* **profile background** 1400x425px
 * **logo** 120x60px
 * **logo small** 50x50px
 * **banner** 640x220px

@@ -32,6 +32,8 @@ Sketch template with all of the different Websites and images as pre-defined art
 * **post normal** 403x403px
 * **post highlight** 843x403px
 
+[Facebook dimennsions reference](https://www.facebook.com/PagesSizesDimensions)
+
 ##Twitter
 * **profile** 400x400px
 * **header** 1500x500px

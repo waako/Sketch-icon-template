@@ -22,6 +22,8 @@ Sketch template with all of the different Websites and images as pre-defined art
 * **144x144px** IE10 Metro (pin to Start screen)
 * **195x195px** Opera Speed Dial
 
+[Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet)
+
 # Social Media
 
 ## Facebook
